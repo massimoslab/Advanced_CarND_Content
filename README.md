@@ -74,7 +74,7 @@ The aim is to use the Udacity course as a starting point and complement the cour
 | 9 | Writing ROS Nodes | The, you’ll develop ROS nodes to perform specific vehicle functions, like image classification or motion control.|
 | 10 | Project: System Integration | Finally, for your last project, you’ll deploy your teams’ code to Carla, a real self-driving car, and see how well it drives around the test track! |
 
-
+&nbsp;
 ## Author
 
 **Massimo Passamonti**: [email me](mailto:mpweb2.0@gmail.com)
