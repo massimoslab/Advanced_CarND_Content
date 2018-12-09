@@ -19,17 +19,17 @@
 | 11 | MiniFlow | xx |
 | 12 | Introduction TensorFlow | Next up, you’ll train a logistic classifier using TensorFlow. And, you’ll implement related techniques, such as softmax probabilities and regularization. |
 | 13 | Deep Neural Networks | This is where you’ll combine activation functions, backpropagation, and regularization, all using TensorFlow.
-| 14 | Convolutional Neural Networks | Next, you’ll study the building blocks of convolutional neural networks, which are especially well-suited to extracting data from camera images. In particular, you’ll learn about filters, stride, and pooling.
-LeNet for Traffic Signs |
-| 15 | Project: Traffic Sign Classifier | For this project, you’ll implement and train a convolutional neural network to classify traffic signs. You’ll use validation sets, pooling, and dropout to design a network architecture and improve performance. |
-| 16 | Keras | This will be your opportunity to build a multi-layer convolutional network in Keras. And, you’ll compare the simplicity of Keras to the flexibility of TensorFlow. |
-| 17 | Transfer Learning | Here, you’ll fine tune pre-trained networks to apply them to your own problems. You’ll study cannonical networks such as AlexNet, VGG, GoogLeNet, and ResNet. |
-| 18 | Project: Behavioral Cloning | For this project, you’ll architect and train a deep neural network to drive a car in a simulator. You’ll collect your own training data, and use it to clone your own driving behavior on a test track. |
-| 19 | Machine learning and Stanley | xx |
-| 20 | Support Vector Machines | xx |
-| 21 | Decisions Trees | xx |
-| 22 | Object Detection | xx |
-| 23 | Project: Vehicle Detection and Tracking | xx |
+| 14 | Convolutional Neural Networks | Next, you’ll study the building blocks of convolutional neural networks, which are especially well-suited to extracting data from camera images. In particular, you’ll learn about filters, stride, and pooling. |
+| 15 | LeNet for Traffic Signs | xx |
+| 16 | Project: Traffic Sign Classifier | For this project, you’ll implement and train a convolutional neural network to classify traffic signs. You’ll use validation sets, pooling, and dropout to design a network architecture and improve performance. |
+| 17 | Keras | This will be your opportunity to build a multi-layer convolutional network in Keras. And, you’ll compare the simplicity of Keras to the flexibility of TensorFlow. |
+| 18 | Transfer Learning | Here, you’ll fine tune pre-trained networks to apply them to your own problems. You’ll study cannonical networks such as AlexNet, VGG, GoogLeNet, and ResNet. |
+| 19 | Project: Behavioral Cloning | For this project, you’ll architect and train a deep neural network to drive a car in a simulator. You’ll collect your own training data, and use it to clone your own driving behavior on a test track. |
+| 20 | Machine learning and Stanley | xx |
+| 21 | Support Vector Machines | xx |
+| 22 | Decisions Trees | xx |
+| 23 | Object Detection | xx |
+| 24 | Project: Vehicle Detection and Tracking | xx |
 
 
 
