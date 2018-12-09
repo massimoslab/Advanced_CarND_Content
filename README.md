@@ -1,6 +1,8 @@
-[image1]: ./images/traffic_lights.jpg
+# Advanced Car Nano Degree - Content
 
-# Content
+Below is the content of the Udacity Car Nano Degree that I have expanded in order to allow students to build a real miniature self driving car.
+
+The aim is to use the Udacity course as a starting point and complement the course with new sections focusing especially on the construction of the miniature self driving car using Arduinos and Raspberry Pis.
 
 ## Term 1 - Computer Vision and Deep Learning
 
@@ -31,75 +33,46 @@
 | 23 | Object Detection | xx |
 | 24 | Project: Vehicle Detection and Tracking | xx |
 
+&nbsp;
+## Term 2 - Sensor Fusion, Localization and Control
 
+| Section  | Content | Details |
+| :---: | :---: | ------------- |
+| 1 | Introduction to Sensors | The first lesson of the Sensor Fusion Module covers the physics of two of the most import sensors on an autonomous vehicle — radar and lidar.
+| 2 | Kalman Filters | Kalman filters are a key mathematical tool for fusing together data. You’ll implement these filters in Python to combine measurements from a single sensor over time.
+| 3 | C++ Checkpoint | This is a chance to test your knowledge of C++ to evaluate your readiness for the upcoming projects.
+| 4 | Lidar and Radar Fusion with Kalman Filters C++ | Extended Kalman Filters (EKFs) are used by autonomous vehicle engineers to combine measurements from multiple sensors into a non-linear model. First, you’ll learn the physics and mathematics behind vehicular motion. Then, you’ll combine that knowledge with an extended Kalman filter to estimate the positions of other vehicles on the road. |
+| 5 | Project: Extended Kalman Filter | For this project, you’ll use data from multiple sensors to track a vehicle’s motion, and estimate its location with precision. Building an EKF is an impressive skill to show an employer. |
+| 6 | Unscented Kalman Filters | xx |
+| 7 | Project: Unscented Kalman Filter | xx |
+| 8 | Introduction to Localization | In this intro, you’ll study how motion and probability affect your understanding of where you are in the world.
+| 9 | Localization Overview | xx |
+| 10 | Markov Localization | Here, you’ll use a Bayesian filter to localize the vehicle in a simplified environment. |
+| 11 | Motion Models | Next, you’ll learn basic models for vehicle movements, including the bicycle model. You’ll estimate the position of the car over time given different sensor data. |
+| 12 | Particle Filters | Next, you’ll use a probabilistic sampling technique known as a particle filter to localize the vehicle in a complex environment. |
+| 13 | Implementation of a Particle Filter | To prepare for your project, you’ll implement a particle filter in C++. |
+| 14 | Project: Kidnapped Vehicle | For your actual project, you’ll implement a particle filter to take real-world data and localize a lost vehicle. |
+| 15 | PID Control | You’ll begin by build control systems to actuate a vehicle to move it on a path.|
+| 16 | Project: PID Control | Then, you’ll implement the classic closed-loop controller — a proportional-integral-derivative control system. |
+| 17 | Vehicle Models | xx |
+| 18 | Project: Model Predictive Control | xx |
+| 19 |  Geometry and Trigonometry | Before advancing further, you’ll get a refresh on your knowledge of the fundamental geometric and trigonometric functions that are necessary to model vehicular motion. |
 
+&nbsp;
+## Term 3 - Path Planning, Concentrations, and
 
-
-
-
-
-Term 2
-Sensor Fusion, Localization and Control
-
-1.     Introduction to Sensors
-The first lesson of the Sensor Fusion Module covers the physics of two of the most import sensors on an autonomous vehicle — radar and lidar.
-2.     Kalman Filters
-Kalman filters are a key mathematical tool for fusing together data. You’ll implement these filters in Python to combine measurements from a single sensor over time.
-3.     C++ Checkpoint
-This is a chance to test your knowledge of C++ to evaluate your readiness for the upcoming projects.
-4.     Lidar and Radar Fusion with Kalman Filters C++
-Extended Kalman Filters (EKFs) are used by autonomous vehicle engineers to combine measurements from multiple sensors into a non-linear model. First, you’ll learn the physics and mathematics behind vehicular motion. Then, you’ll combine that knowledge with an extended Kalman filter to estimate the positions of other vehicles on the road.
-5.     Project: Extended Kalman Filter
-For this project, you’ll use data from multiple sensors to track a vehicle’s motion, and estimate its location with precision. Building an EKF is an impressive skill to show an employer.
-
-6.     Unscented Kalman Filters
-7.     Project: Unscented Kalman Filter
-8. Introduction to Localization
-In this intro, you’ll study how motion and probability affect your understanding of where you are in the world.
-9. Localization Overview
-10. Markov Localization
-Here, you’ll use a Bayesian filter to localize the vehicle in a simplified environment.
-11. Motion Models
-Next, you’ll learn basic models for vehicle movements, including the bicycle model. You’ll estimate the position of the car over time given different sensor data.
-12. Particle Filters
-Next, you’ll use a probabilistic sampling technique known as a particle filter to localize the vehicle in a complex environment.
-13. Implementation of a Particle Filter
-To prepare for your project, you’ll implement a particle filter in C++.
-14. Project: Kidnapped Vehicle
-For your actual project, you’ll implement a particle filter to take real-world data and localize a lost vehicle.
-15. PID Control
-You’ll begin by build control systems to actuate a vehicle to move it on a path.
-16. Project: PID Control
-Then, you’ll implement the classic closed-loop controller — a proportional-integral-derivative control system.
-17.  Vehicle Models
-18.  Project: Model Predictive Control
-19.  Geometry and Trigonometry
-Before advancing further, you’ll get a refresh on your knowledge of the fundamental geometric and trigonometric functions that are necessary to model vehicular motion.
-20.   
-
-Term3
-Path Planning, Concentrations, and
-1.     Search
-First, you’ll learn to search the environment for paths to navigate the vehicle to its goal.
-2.     Prediction
-Then, you’ll estimate where other vehicles on the road will be in the future, utilizing both models and data.
-3.     Behavior Planning
-Next, you’ll model your vehicles behavior choices using a finite state machine. You’ll construct a cost function to determine which state to move to next.
-4.     Trajectory Generation
-Here, you’ll sample the motion space, and optimize a trajectory for the vehicle to execute its behavior.
-5.     Project: Path Planning
-For your project, you’ll program a planner to navigate your vehicle through traffic on a highway. Pro tip: Make sure you adhere to the speed, acceleration, and jerk constraints!
-
-6.     Autonomous Vehicle Architecture
-Get ready! It’s time to earn the system architecture of Carla, Udacity’s own self-driving car!
-7.     Introduction to ROS
-Here, you’ll navigate Robot Operating System (ROS) to send and receive messages, and perform basic commands.
-8.     Packages & Catkin Workspaces
-Next, you’ll create and prepare an ROS package so that you are ready to deploy code on Carla.
-9.     Writing ROS Nodes
-The, you’ll develop ROS nodes to perform specific vehicle functions, like image classification or motion control.
-10.  Project: System Integration
-Finally, for your last project, you’ll deploy your teams’ code to Carla, a real self-driving car, and see how well it drives around the test track!
+| Section  | Content | Details |
+| :---: | :---: | ------------- |
+| 1 | Search | First, you’ll learn to search the environment for paths to navigate the vehicle to its goal. |
+| 2 | Prediction | Then, you’ll estimate where other vehicles on the road will be in the future, utilizing both models and data.|
+| 3 | Behavior Planning | Next, you’ll model your vehicles behavior choices using a finite state machine. You’ll construct a cost function to determine which state to move to next. |
+| 4 | Trajectory Generation |Here, you’ll sample the motion space, and optimize a trajectory for the vehicle to execute its behavior. |
+| 5 | Project: Path Planning | For your project, you’ll program a planner to navigate your vehicle through traffic on a highway. Pro tip: Make sure you adhere to the speed, acceleration, and jerk constraints!|
+| 6 | Autonomous Vehicle Architecture | Get ready! It’s time to earn the system architecture of Carla, Udacity’s own self-driving car! |
+| 7 | Introduction to ROS | Here, you’ll navigate Robot Operating System (ROS) to send and receive messages, and perform basic commands. |
+| 8 | Packages & Catkin Workspaces | Next, you’ll create and prepare an ROS package so that you are ready to deploy code on Carla. |
+| 9 | Writing ROS Nodes | The, you’ll develop ROS nodes to perform specific vehicle functions, like image classification or motion control.|
+| 10 | Project: System Integration | Finally, for your last project, you’ll deploy your teams’ code to Carla, a real self-driving car, and see how well it drives around the test track! |
 
 
 ## Author
