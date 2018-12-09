@@ -5,7 +5,7 @@
 ## Term 1 - Computer Vision and Deep Learning
 
 | Section  | Content | Details |
-| ------------- | ------------- | ------------- |
+| :---: | :---: | ------------- |
 | 1 | Welcome | This lesson will introduce you to the program, help you discover the services we provide, and show you all the incredible projects you'll build! |
 | 2 | Workspaces | Udacity’s new in-browser programming editor moves you straight to programming, and past any challenges related to installing and configuring dependencies. |
 | 3 | Computer Vision Fundamentals | Here, you’ll use OpenCV image analysis techniques to identify lines, including Hough transforms and Canny edge detection.|
