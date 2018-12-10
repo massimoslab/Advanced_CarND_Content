@@ -62,7 +62,7 @@ I have reorganised Term 1 (compared to the original Udacity course) so that the 
       <td align="left"> **In this project, you’ll detect lane lines in a variety of conditions, including changing road surfaces, curved roads, and variable lighting. You’ll use OpenCV to implement camera calibration and image transforms, as well as apply filters, polynomial fits, and splines.** </td>
   </tr>
   <tr>
-      <td colspan="3" align="center"> **Machine Learning** </td>
+      <td colspan="3" align="center"> Machine Learning </td>
   </tr>
   <tr>
       <td align="center"> 10 </td>
