@@ -24,7 +24,7 @@ I have reorganised Term 1 (compared to the original Udacity course) so that the 
       <td align="left">  Udacity’s new in-browser programming editor moves you straight to programming, and past any challenges related to installing and configuring dependencies. </td>
   </tr>
   <tr>
-      <td colspan="3" align="center"> **Computer Vision** </td>
+      <td colspan="3" align="center"> Computer Vision </td>
   </tr>
   <tr>
       <td align="center"> 3 </td>
