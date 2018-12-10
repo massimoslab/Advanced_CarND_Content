@@ -27,12 +27,12 @@ I have reorganised Term 1 (compared to the original Udacity course) so that the 
       <td colspan="3" align="center"> Computer Vision </td>
   </tr>
   <tr>
-      <td align="center"> 3 </td>
+      <td align="center" > 3 </td>
       <td align="center"> Computer Vision Fundamentals </td>
       <td align="left"> Here, you’ll use OpenCV image analysis techniques to identify lines, including Hough transforms and Canny edge detection. </td>
   </tr>
   <tr>
-      <td align="center"> **4** </td>
+      <td align="center" style="font-weight:bold"> 4 </td>
       <td align="center"> **Project: Detect Lane Lines** </td>
       <td align="left"> **You’ll detect highway lane lines from a video stream in your very first week in the program!** </td>
   </tr>
