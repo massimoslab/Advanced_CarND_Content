@@ -5,36 +5,147 @@ Below is the content of the Udacity Car Nano Degree that I have expanded in orde
 The aim is to use the Udacity course as a starting point and complement the course with new sections focusing especially on the construction of the miniature self driving car using Arduinos and Raspberry Pis.
 
 ## Term 1 - Computer Vision and Deep Learning
+I have reorganised Term 1 (compared to the original Udacity course) so that the computer vision is completed early on in the course and is directly applied in the construction of a traffic light detector and classifier. Please notice that no machine learning is used in the initial part of the term.
 
-| Section  | Content | Details |
-| :---: | :---: | ------------- |
-| 1 | Welcome | This lesson will introduce you to the program, help you discover the services we provide, and show you all the incredible projects you'll build! |
-| 2 | Workspaces | Udacity’s new in-browser programming editor moves you straight to programming, and past any challenges related to installing and configuring dependencies. |
-| 3 | Computer Vision Fundamentals | Here, you’ll use OpenCV image analysis techniques to identify lines, including Hough transforms and Canny edge detection.|
-| 4 | Project: Detect Lane Lines | You’ll detect highway lane lines from a video stream in your very first week in the program! |
-| 5 | Gradients and Color Spaces | Learn how to use gradient thresholds and different color spaces to more easily identify lane markings on the road. Learn also how to use color spaces to detect traffic lights. |
-| 6 | Project: Traffic Light Detection | xx |
-| 7 | Camera Calibration | Learn how to calibrate your camera to remove inherent distortions that can affect its perception of the world. |
-| 8 | Advanced techniques for lane findings | Discover more advanced computer vision techniques to improve upon your lane lines algorithm! |
-| 9 | Project: Advanced Lane Detection | In this project, you’ll detect lane lines in a variety of conditions, including changing road surfaces, curved roads, and variable lighting. You’ll use OpenCV to implement camera calibration and image transforms, as well as apply filters, polynomial fits, and splines. |
-| 10 | Introduction to Neural Networks | Here, you’ll survey the basics of neural networks, including regression, classification, perceptrons, and backpropagation.
-| 11 | MiniFlow | xx |
-| 12 | Introduction TensorFlow | Next up, you’ll train a logistic classifier using TensorFlow. And, you’ll implement related techniques, such as softmax probabilities and regularization. |
-| 13 | Deep Neural Networks | This is where you’ll combine activation functions, backpropagation, and regularization, all using TensorFlow.
-| 14 | Convolutional Neural Networks | Next, you’ll study the building blocks of convolutional neural networks, which are especially well-suited to extracting data from camera images. In particular, you’ll learn about filters, stride, and pooling. |
-| 15 | LeNet for Traffic Signs | xx |
-| 16 | Project: Traffic Sign Classifier | For this project, you’ll implement and train a convolutional neural network to classify traffic signs. You’ll use validation sets, pooling, and dropout to design a network architecture and improve performance. |
-| 17 | Keras | This will be your opportunity to build a multi-layer convolutional network in Keras. And, you’ll compare the simplicity of Keras to the flexibility of TensorFlow. |
-| 18 | Transfer Learning | Here, you’ll fine tune pre-trained networks to apply them to your own problems. You’ll study cannonical networks such as AlexNet, VGG, GoogLeNet, and ResNet. |
-| 19 | Project: Behavioral Cloning | For this project, you’ll architect and train a deep neural network to drive a car in a simulator. You’ll collect your own training data, and use it to clone your own driving behavior on a test track. |
-| 20 | Machine learning and Stanley | xx |
-| 21 | Support Vector Machines | xx |
-| 22 | Decisions Trees | xx |
-| 23 | Object Detection | xx |
-| 24 | Project: Vehicle Detection and Tracking | xx |
+<table border="1">
+  <tr>
+      <th>Section</th>
+      <th>Content</th>
+      <th>Details</th>
+  </tr>
+  <tr>
+      <td align="center"> 1 </td>
+      <td align="center"> Welcome </td>
+      <td align="left"> This lesson will introduce you to the program, help you discover the services we provide, and show you all the incredible projects you'll build! </td>
+  </tr>
+  <tr>
+      <td align="center"> 2 </td>
+      <td align="center"> Workspaces </td>
+      <td align="left">  Udacity’s new in-browser programming editor moves you straight to programming, and past any challenges related to installing and configuring dependencies. </td>
+  </tr>
+  <tr>
+      <td colspan="3" align="center">Computer Vision</td>
+  </tr>
+  <tr>
+      <td align="center"> 3 </td>
+      <td align="center"> Computer Vision Fundamentals </td>
+      <td align="left"> Here, you’ll use OpenCV image analysis techniques to identify lines, including Hough transforms and Canny edge detection. </td>
+  </tr>
+  <tr>
+      <td align="center"> **4** </td>
+      <td align="center"> **Project: Detect Lane Lines** </td>
+      <td align="left"> **You’ll detect highway lane lines from a video stream in your very first week in the program!** </td>
+  </tr>
+  <tr>
+      <td align="center"> 5 </td>
+      <td align="center"> Gradients and Color Spaces </td>
+      <td align="left"> Learn how to use gradient thresholds and different color spaces to more easily identify lane markings on the road. Learn also how to use color spaces to detect traffic lights. </td>
+  </tr>
+  <tr>
+      <td align="center"> **6** </td>
+      <td align="center"> **Project: Traffic Light Detection** </td>
+      <td align="left"> **xxx** </td>
+  </tr>
+  <tr>
+      <td align="center"> 7 </td>
+      <td align="center"> Camera Calibration </td>
+      <td align="left"> Learn how to calibrate your camera to remove inherent distortions that can affect its perception of the world. </td>
+  </tr>
+  <tr>
+      <td align="center"> 8 </td>
+      <td align="center"> Advanced techniques for lane findings </td>
+      <td align="left"> Discover more advanced computer vision techniques to improve upon your lane lines algorithm! </td>
+  </tr>
+  <tr>
+      <td align="center"> **9** </td>
+      <td align="center"> **Project: Advanced Lane Detection** </td>
+      <td align="left"> **In this project, you’ll detect lane lines in a variety of conditions, including changing road surfaces, curved roads, and variable lighting. You’ll use OpenCV to implement camera calibration and image transforms, as well as apply filters, polynomial fits, and splines.** </td>
+  </tr>
+  <tr>
+      <td colspan="3" align="center"> Machine Learning </td>
+  </tr>
+  <tr>
+      <td align="center"> 10 </td>
+      <td align="center"> Introduction to Neural Networks </td>
+      <td align="left"> Here, you’ll survey the basics of neural networks, including regression, classification, perceptrons, and backpropagation. </td>
+  </tr>
+  <tr>
+      <td align="center"> 11 </td>
+      <td align="center"> MiniFlow </td>
+      <td align="left"> xxx </td>
+  </tr>
+  <tr>
+      <td align="center"> 12 </td>
+      <td align="center"> Introduction TensorFlow </td>
+      <td align="left"> Next up, you’ll train a logistic classifier using TensorFlow. And, you’ll implement related techniques, such as softmax probabilities and regularization. </td>
+  </tr>
+  <tr>
+      <td align="center"> 13 </td>
+      <td align="center"> Deep Neural Networks </td>
+      <td align="left"> This is where you’ll combine activation functions, backpropagation, and regularization, all using TensorFlow. </td>
+  </tr>
+  <tr>
+      <td align="center"> 14 </td>
+      <td align="center"> Convolutional Neural Networks </td>
+      <td align="left"> Next, you’ll study the building blocks of convolutional neural networks, which are especially well-suited to extracting data from camera images. In particular, you’ll learn about filters, stride, and pooling. </td>
+  </tr>
+  <tr>
+      <td align="center"> 15 </td>
+      <td align="center"> LeNet for Traffic Signs </td>
+      <td align="left"> xxx </td>
+  </tr>
+  <tr>
+      <td align="center"> **16** </td>
+      <td align="center"> **Project: Traffic Sign Classifier** </td>
+      <td align="left"> **For this project, you’ll implement and train a convolutional neural network to classify traffic signs. You’ll use validation sets, pooling, and dropout to design a network architecture and improve performance.** </td>
+  </tr>
+  <tr>
+      <td align="center"> 17 </td>
+      <td align="center"> Keras </td>
+      <td align="left"> This will be your opportunity to build a multi-layer convolutional network in Keras. And, you’ll compare the simplicity of Keras to the flexibility of TensorFlow. </td>
+  </tr>
+  <tr>
+      <td align="center"> 18 </td>
+      <td align="center"> Transfer Learning </td>
+      <td align="left"> Here, you’ll fine tune pre-trained networks to apply them to your own problems. You’ll study cannonical networks such as AlexNet, VGG, GoogLeNet, and ResNet. </td>
+  </tr>
+  <tr>
+      <td align="center"> **19** </td>
+      <td align="center"> **Project: Behavioral Cloning** </td>
+      <td align="left"> **For this project, you’ll architect and train a deep neural network to drive a car in a simulator. You’ll collect your own training data, and use it to clone your own driving behavior on a test track.** </td>
+  </tr>
+  <tr>
+      <td align="center"> 20 </td>
+      <td align="center"> Machine learning and Stanley </td>
+      <td align="left"> xxx </td>
+  </tr>
+  <tr>
+      <td align="center"> 21 </td>
+      <td align="center">  Support Vector Machines </td>
+      <td align="left"> xxx </td>
+  </tr>
+  <tr>
+      <td align="center"> 22 </td>
+      <td align="center">  Decisions Trees </td>
+      <td align="left"> xxx </td>
+  </tr>
+  <tr>
+      <td align="center"> 23 </td>
+      <td align="center">  Object Detection </td>
+      <td align="left"> xxx </td>
+  </tr>
+  <tr>
+      <td align="center"> **24** </td>
+      <td align="center"> **Project: Vehicle Detection and Tracking** </td>
+      <td align="left"> **xxx** </td>
+  </tr>
+  </tr>
+</table>
 
 &nbsp;
+
 ## Term 2 - Sensor Fusion, Localization and Control
+&nbsp;
 
 | Section  | Content | Details |
 | :---: | :---: | ------------- |
@@ -60,6 +171,7 @@ The aim is to use the Udacity course as a starting point and complement the cour
 
 &nbsp;
 ## Term 3 - Path Planning, Concentrations, and
+&nbsp;
 
 | Section  | Content | Details |
 | :---: | :---: | ------------- |
@@ -73,6 +185,7 @@ The aim is to use the Udacity course as a starting point and complement the cour
 | 8 | Packages & Catkin Workspaces | Next, you’ll create and prepare an ROS package so that you are ready to deploy code on Carla. |
 | 9 | Writing ROS Nodes | The, you’ll develop ROS nodes to perform specific vehicle functions, like image classification or motion control.|
 | 10 | Project: System Integration | Finally, for your last project, you’ll deploy your teams’ code to Carla, a real self-driving car, and see how well it drives around the test track! |
+
 
 &nbsp;
 ## Author
