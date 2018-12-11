@@ -32,9 +32,9 @@ I have reorganised Term 1 (compared to the original Udacity course) so that the 
       <td align="left"> Here, you’ll use OpenCV image analysis techniques to identify lines, including Hough transforms and Canny edge detection. </td>
   </tr>
   <tr>
-      <td align="center" style="color: white; background-color: red;"> 4 </td>
-      <td align="center" style="color: white; background-color: red;"> Project: Detect Lane Lines </td>
-      <td align="left" style="color: white; background-color: red;"> You’ll detect highway lane lines from a video stream in your very first week in the program! </td>
+      <td align="center" style="color: white; background-color: red"> 4 </td>
+      <td align="center" style="color: white; background-color: red"> Project: Detect Lane Lines </td>
+      <td align="left" style="color: white; background-color: red"> You’ll detect highway lane lines from a video stream in your very first week in the program! </td>
   </tr>
   <tr>
       <td align="center"> 5 </td>
