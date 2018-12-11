@@ -4,6 +4,8 @@ Below is the content of the Udacity Car Nano Degree that I have expanded in orde
 
 The aim is to use the Udacity course as a starting point and complement the course with new sections focusing especially on the construction of the miniature self driving car using Arduinos and Raspberry Pis.
 
+As an engineer, you should have a broad understand of both software and also hardware. The aim of this extended course is to give the opportunity to students to learn the software principles from the Udacity course but to complement this knowledge by applying all the theory learnt on a real miniature self-driving car that will be built from scratch. This approach will also allow students to understand the limitations that real-world system bring as a challenge and how to best tackle them.
+
 ## Term 1 - Computer Vision and Deep Learning
 I have reorganised Term 1 (compared to the original Udacity course) so that the computer vision is completed early on in the course and is directly applied in the construction of a traffic light detector and classifier. Please notice that no machine learning is used in the initial part of the term.
 
