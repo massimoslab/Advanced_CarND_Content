@@ -33,8 +33,8 @@ I have reorganised Term 1 (compared to the original Udacity course) so that the 
   </tr>
   <tr>
       <td align="center"> <b> 4 <b></td>
-      <td align="center"> **Project: Detect Lane Lines** </td>
-      <td align="left"> **You’ll detect highway lane lines from a video stream in your very first week in the program!** </td>
+      <td align="center"> <b> Project: Detect Lane Lines <b> </td>
+      <td align="left"> <b> You’ll detect highway lane lines from a video stream in your very first week in the program! <b> </td>
   </tr>
   <tr>
       <td align="center"> 5 </td>
@@ -42,9 +42,9 @@ I have reorganised Term 1 (compared to the original Udacity course) so that the 
       <td align="left"> Learn how to use gradient thresholds and different color spaces to more easily identify lane markings on the road. Learn also how to use color spaces to detect traffic lights. </td>
   </tr>
   <tr>
-      <td align="center"> **6** </td>
-      <td align="center"> **Project: Traffic Light Detection** </td>
-      <td align="left"> **xxx** </td>
+      <td align="center"> <b> 6 <b> </td>
+      <td align="center"> <b> Project: Traffic Light Detection <b> </td>
+      <td align="left"> <b> xxx <b> </td>
   </tr>
   <tr>
       <td align="center"> 7 </td>
