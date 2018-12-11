@@ -32,9 +32,9 @@ I have reorganised Term 1 (compared to the original Udacity course) so that the 
       <td align="left"> Here, you’ll use OpenCV image analysis techniques to identify lines, including Hough transforms and Canny edge detection. </td>
   </tr>
   <tr>
-      <td align="center" style="color: white; background-color: red"> 4 </td>
-      <td align="center" style="color: white; background-color: red"> Project: Detect Lane Lines </td>
-      <td align="left" style="color: white; background-color: red"> You’ll detect highway lane lines from a video stream in your very first week in the program! </td>
+      <td align="center" style="background-color: #C0C0C0"> 4 </td>
+      <td align="center" style="background-color: #C0C0C0"> Project: Detect Lane Lines </td>
+      <td align="left" style="background-color: #C0C0C0"> You’ll detect highway lane lines from a video stream in your very first week in the program! </td>
   </tr>
   <tr>
       <td align="center"> 5 </td>
@@ -42,9 +42,9 @@ I have reorganised Term 1 (compared to the original Udacity course) so that the 
       <td align="left"> Learn how to use gradient thresholds and different color spaces to more easily identify lane markings on the road. Learn also how to use color spaces to detect traffic lights. </td>
   </tr>
   <tr>
-      <td align="center"> <b> 6 <b> </td>
-      <td align="center"> <b> Project: Traffic Light Detection <b> </td>
-      <td align="left"> <b> xxx <b> </td>
+      <td align="center" style="background-color: #C0C0C0"> 6 </td>
+      <td align="center" style="background-color: #C0C0C0"> Project: Traffic Light Detection </td>
+      <td align="left" style="background-color: #C0C0C0"> xxx </td>
   </tr>
   <tr>
       <td align="center"> 7 </td>
@@ -57,9 +57,9 @@ I have reorganised Term 1 (compared to the original Udacity course) so that the 
       <td align="left"> Discover more advanced computer vision techniques to improve upon your lane lines algorithm! </td>
   </tr>
   <tr>
-      <td align="center"> <b> 9 <b> </td>
-      <td align="center"> <b> Project: Advanced Lane Detection <b> </td>
-      <td align="left"> <b> In this project, you’ll detect lane lines in a variety of conditions, including changing road surfaces, curved roads, and variable lighting. You’ll use OpenCV to implement camera calibration and image transforms, as well as apply filters, polynomial fits, and splines. <b> </td>
+      <td align="center" style="background-color: #C0C0C0"> 9 </td>
+      <td align="center" style="background-color: #C0C0C0"> Project: Advanced Lane Detection </td>
+      <td align="left" style="background-color: #C0C0C0"> In this project, you’ll detect lane lines in a variety of conditions, including changing road surfaces, curved roads, and variable lighting. You’ll use OpenCV to implement camera calibration and image transforms, as well as apply filters, polynomial fits, and splines. </td>
   </tr>
   <tr>
       <td colspan="3" align="center"> <b> Machine Learning <b> </td>
