@@ -57,9 +57,9 @@ I have reorganised Term 1 (compared to the original Udacity course) so that the 
       <td align="left"> Discover more advanced computer vision techniques to improve upon your lane lines algorithm! </td>
   </tr>
   <tr>
-      <td align="center"> **9** </td>
-      <td align="center"> **Project: Advanced Lane Detection** </td>
-      <td align="left"> **In this project, you’ll detect lane lines in a variety of conditions, including changing road surfaces, curved roads, and variable lighting. You’ll use OpenCV to implement camera calibration and image transforms, as well as apply filters, polynomial fits, and splines.** </td>
+      <td align="center"> <b> 9 <b> </td>
+      <td align="center"> <b> Project: Advanced Lane Detection <b> </td>
+      <td align="left"> <b> In this project, you’ll detect lane lines in a variety of conditions, including changing road surfaces, curved roads, and variable lighting. You’ll use OpenCV to implement camera calibration and image transforms, as well as apply filters, polynomial fits, and splines. <b> </td>
   </tr>
   <tr>
       <td colspan="3" align="center"> Machine Learning </td>
@@ -95,9 +95,9 @@ I have reorganised Term 1 (compared to the original Udacity course) so that the 
       <td align="left"> xxx </td>
   </tr>
   <tr>
-      <td align="center"> **16** </td>
-      <td align="center"> **Project: Traffic Sign Classifier** </td>
-      <td align="left"> **For this project, you’ll implement and train a convolutional neural network to classify traffic signs. You’ll use validation sets, pooling, and dropout to design a network architecture and improve performance.** </td>
+      <td align="center"> <b> 16 <b> </td>
+      <td align="center"> <b> Project: Traffic Sign Classifier <b> </td>
+      <td align="left"> <b> For this project, you’ll implement and train a convolutional neural network to classify traffic signs. You’ll use validation sets, pooling, and dropout to design a network architecture and improve performance. <b> </td>
   </tr>
   <tr>
       <td align="center"> 17 </td>
@@ -110,9 +110,9 @@ I have reorganised Term 1 (compared to the original Udacity course) so that the 
       <td align="left"> Here, you’ll fine tune pre-trained networks to apply them to your own problems. You’ll study cannonical networks such as AlexNet, VGG, GoogLeNet, and ResNet. </td>
   </tr>
   <tr>
-      <td align="center"> **19** </td>
-      <td align="center"> **Project: Behavioral Cloning** </td>
-      <td align="left"> **For this project, you’ll architect and train a deep neural network to drive a car in a simulator. You’ll collect your own training data, and use it to clone your own driving behavior on a test track.** </td>
+      <td align="center"> <b> 19 <b> </td>
+      <td align="center"> <b> Project: Behavioral Cloning <b> </td>
+      <td align="left"> <b> For this project, you’ll architect and train a deep neural network to drive a car in a simulator. You’ll collect your own training data, and use it to clone your own driving behavior on a test track. <b> </td>
   </tr>
   <tr>
       <td align="center"> 20 </td>
@@ -135,9 +135,9 @@ I have reorganised Term 1 (compared to the original Udacity course) so that the 
       <td align="left"> xxx </td>
   </tr>
   <tr>
-      <td align="center"> **24** </td>
-      <td align="center"> **Project: Vehicle Detection and Tracking** </td>
-      <td align="left"> **xxx** </td>
+      <td align="center"> <b> 24 <b> </td>
+      <td align="center"> <b> Project: Vehicle Detection and Tracking <b> </td>
+      <td align="left"> <b> xxx <b> </td>
   </tr>
   </tr>
 </table>
