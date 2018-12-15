@@ -203,12 +203,12 @@ The annexes contain valuable material that will allows students to familiarise t
   <tr>
       <td align="center"> 1 </td>
       <td align="center"> Arduino Basics </td>
-      <td align="left"> For your actual project, you’ll implement a particle filter to take real-world data and localize a lost vehicle. </td>
+      <td align="left"> Arduino is an open-source hardware and software company, project and user community that designs and manufactures single-board microcontrollers and microcontroller kits for building digital devices and interactive objects that can sense and control objects in the physical and digital world.  </td>
   </tr>
   <tr>
       <td align="center"> 2 </td>
       <td align="center"> Raspberry Pi Basics </td>
-      <td align="left">  xxx </td>
+      <td align="left"> The Raspberry Pi is a series of small single-board computers developed in the United Kingdom by the Raspberry Pi Foundation to promote teaching of basic computer science in schools and in developing countries.[5][6][7] The original model became far more popular than anticipated,[8] selling outside its target market for uses such as robotics. </td>
   </tr>
   <tr>
       <td align="center" > 3 </td>
