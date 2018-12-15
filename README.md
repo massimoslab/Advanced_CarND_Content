@@ -203,32 +203,32 @@ The annexes contain valuable material that will allows students to familiarise t
   <tr>
       <td align="center"> 1 </td>
       <td align="center"> Arduino Basics </td>
-      <td align="left"> Arduino is an open-source hardware and software company, project and user community that designs and manufactures single-board microcontrollers and microcontroller kits for building digital devices and interactive objects that can sense and control objects in the physical and digital world.  </td>
+      <td align="left"> The Arduino is a single-board microcontroller able to perform simple tasks at high speed. The Arduino can be connected with several external devices such as motors, sensors, etc. which can in turn send and receive signals to and from the Arduino. In this Annex, students will familiarise themselves with the basics of Arduino. </td>
   </tr>
   <tr>
       <td align="center"> 2 </td>
       <td align="center"> Raspberry Pi Basics </td>
-      <td align="left"> The Raspberry Pi is a series of small single-board computers developed in the United Kingdom by the Raspberry Pi Foundation to promote teaching of basic computer science in schools and in developing countries.[5][6][7] The original model became far more popular than anticipated,[8] selling outside its target market for uses such as robotics. </td>
+      <td align="left"> The Raspberry Pi is effectively a mini-computer able to perform complex computations at a smaller speed compared to the Arduino. Similary, the Raspberry Pi can be connected to various external devices and also to the Arduino itself so that the two devices can communicate.  </td>
   </tr>
   <tr>
       <td align="center" > 3 </td>
       <td align="center"> Car Chassis </td>
-      <td align="left"> xxx </td>
+      <td align="left"> For this project students will use a four-wheel car chassis with rear wheel propulsion and front wheel steering mechanism. In this annex we will explain how to assemble the car chassis. </td>
   </tr>
   <tr>
       <td align="center" > 4 </td>
       <td align="center"> Motor Controller </td>
-      <td align="left"> xxx </td>
+      <td align="left"> Since the motors that we will be using for the car chassis require higher voltage, the use of a so-called motor controller becomes necessary. n this annex students will familiarise themselves with an L298N Motor Controller. </td>
   </tr>
   <tr>
       <td align="center" > 5 </td>
       <td align="center"> I2C Controller </td>
-      <td align="left"> xxx </td>
+      <td align="left"> Amongst the many ways to connect an Arduino to a Raspberry Pi, the I2C connection represents the most flexible solution. In this annex students will learn how to implement an I2C connection which allows an Arduinos to communicate with one or more Raspberry Pis. </td>
   </tr>
   <tr>
       <td align="center" > 6 </td>
       <td align="center"> Pi Camera </td>
-      <td align="left"> xxx </td>
+      <td align="left"> As we will be working a lot with computer vision tools, the use of a camera becomes essential. The Pi Camera is a camera device that can be connected to the Raspberry Pi. The captured images can be directly processed in python. </td>
   </tr>
   </tr>
 </table>
