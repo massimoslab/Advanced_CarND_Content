@@ -203,7 +203,7 @@ The annexes contain valuable material that will allows students to familiarise t
   <tr>
       <td align="center"> 1 </td>
       <td align="center"> Arduino Basics </td>
-      <td align="left"> xxx </td>
+      <td align="left"> For your actual project, you’ll implement a particle filter to take real-world data and localize a lost vehicle. </td>
   </tr>
   <tr>
       <td align="center"> 2 </td>
@@ -230,7 +230,7 @@ The annexes contain valuable material that will allows students to familiarise t
       <td align="center"> Pi Camera </td>
       <td align="left"> xxx </td>
   </tr>
-  <tr>
+  </tr>
 </table>
 
 &nbsp;
