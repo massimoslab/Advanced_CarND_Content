@@ -188,8 +188,53 @@ I have reorganised Term 1 (compared to the original Udacity course) so that the 
 | 9 | Writing ROS Nodes | The, you’ll develop ROS nodes to perform specific vehicle functions, like image classification or motion control.|
 | 10 | Project: System Integration | Finally, for your last project, you’ll deploy your teams’ code to Carla, a real self-driving car, and see how well it drives around the test track! |
 
+&nbsp;
+
+
+## Annexes
+The annexes contain valuable material that will allows students to familiarise themselves with topics that they might have never seen before such as Arduino and Raspberry Pi programming.
+
+<table border="1">
+  <tr>
+      <th>Annex</th>
+      <th>Content</th>
+      <th>Details</th>
+  </tr>
+  <tr>
+      <td align="center"> 1 </td>
+      <td align="center"> Arduino Basics </td>
+      <td align="left"> xxx </td>
+  </tr>
+  <tr>
+      <td align="center"> 2 </td>
+      <td align="center"> Raspberry Pi Basics </td>
+      <td align="left">  xxx </td>
+  </tr>
+  <tr>
+      <td align="center" > 3 </td>
+      <td align="center"> Car Chassis </td>
+      <td align="left"> xxx </td>
+  </tr>
+  <tr>
+      <td align="center" > 4 </td>
+      <td align="center"> Motor Controller </td>
+      <td align="left"> xxx </td>
+  </tr>
+  <tr>
+      <td align="center" > 5 </td>
+      <td align="center"> I2C Controller </td>
+      <td align="left"> xxx </td>
+  </tr>
+  <tr>
+      <td align="center" > 6 </td>
+      <td align="center"> Pi Camera </td>
+      <td align="left"> xxx </td>
+  </tr>
+  <tr>
+</table>
 
 &nbsp;
+
 ## Author
 
 **Massimo Passamonti**: [email me](mailto:mpweb2.0@gmail.com)
