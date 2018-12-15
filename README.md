@@ -233,7 +233,7 @@ I have reorganised Term 1 (compared to the original Udacity course) so that the 
       <td align="left"> <b> For your actual project, you’ll implement a particle filter to take real-world data and localize a lost vehicle. <b> </td>
   </tr>
   <tr>
-      <td colspan="3" align="center"> <b> Controllers <b> </td>
+      <td colspan="3" align="center"> <b> Controller Systems <b> </td>
   </tr>
   <tr>
       <td align="center"> 15 </td>
@@ -268,18 +268,66 @@ I have reorganised Term 1 (compared to the original Udacity course) so that the 
 ## Term 3 - Path Planning, Concentrations, and
 &nbsp;
 
-| Section  | Content | Details |
-| :---: | :---: | ------------- |
-| 1 | Search | First, you’ll learn to search the environment for paths to navigate the vehicle to its goal. |
-| 2 | Prediction | Then, you’ll estimate where other vehicles on the road will be in the future, utilizing both models and data.|
-| 3 | Behavior Planning | Next, you’ll model your vehicles behavior choices using a finite state machine. You’ll construct a cost function to determine which state to move to next. |
-| 4 | Trajectory Generation |Here, you’ll sample the motion space, and optimize a trajectory for the vehicle to execute its behavior. |
-| 5 | Project: Path Planning | For your project, you’ll program a planner to navigate your vehicle through traffic on a highway. Pro tip: Make sure you adhere to the speed, acceleration, and jerk constraints!|
-| 6 | Autonomous Vehicle Architecture | Get ready! It’s time to earn the system architecture of Carla, Udacity’s own self-driving car! |
-| 7 | Introduction to ROS | Here, you’ll navigate Robot Operating System (ROS) to send and receive messages, and perform basic commands. |
-| 8 | Packages & Catkin Workspaces | Next, you’ll create and prepare an ROS package so that you are ready to deploy code on Carla. |
-| 9 | Writing ROS Nodes | The, you’ll develop ROS nodes to perform specific vehicle functions, like image classification or motion control.|
-| 10 | Project: System Integration | Finally, for your last project, you’ll deploy your teams’ code to Carla, a real self-driving car, and see how well it drives around the test track! |
+
+
+<table>
+  <tr>
+      <th>Section</th>
+      <th>Content</th>
+      <th>Details</th>
+  </tr>
+  <tr>
+      <td align="center"> 1 </td>
+      <td align="center"> Search </td>
+      <td align="left"> First, you’ll learn to search the environment for paths to navigate the vehicle to its goal. </td>
+  </tr>
+  <tr>
+      <td align="center"> 2 </td>
+      <td align="center"> Prediction </td>
+      <td align="left"> Then, you’ll estimate where other vehicles on the road will be in the future, utilizing both models and data. </td>
+  </tr>
+  <tr>
+      <td align="center" > 3 </td>
+      <td align="center"> Behavior Planning </td>
+      <td align="left"> Next, you’ll model your vehicles behavior choices using a finite state machine. You’ll construct a cost function to determine which state to move to next. </td>
+  </tr>
+  <tr>
+      <td align="center"> 4 </td>
+      <td align="center"> Trajectory Generation </td>
+      <td align="left"> Here, you’ll sample the motion space, and optimize a trajectory for the vehicle to execute its behavior. </td>
+  </tr>
+  <tr>
+      <td align="center"> <b> 5 <b> </td>
+      <td align="center"> <b>Project: Path Planning <b> </td>
+      <td align="left"> <b> For your project, you’ll program a planner to navigate your vehicle through traffic on a highway. Pro tip: Make sure you adhere to the speed, acceleration, and jerk constraints! <b> </td>
+  </tr>
+  <tr>
+      <td align="center"> 6 </td>
+      <td align="center"> Autonomous Vehicle Architecture </td>
+      <td align="left"> Get ready! It’s time to earn the system architecture of Carla, Udacity’s own self-driving car! </td>
+  </tr>
+  <tr>
+      <td align="center"> 7 </td>
+      <td align="center"> Introduction to ROS </td>
+      <td align="left"> Here, you’ll navigate Robot Operating System (ROS) to send and receive messages, and perform basic commands. </td>
+  </tr>
+  <tr>
+      <td align="center"> 8 </td>
+      <td align="center"> Packages & Catkin Workspaces </td>
+      <td align="left"> Next, you’ll create and prepare an ROS package so that you are ready to deploy code on Carla. </td>
+  </tr>
+  <tr>
+      <td align="center"> 9 </td>
+      <td align="center"> Writing ROS Nodes </td>
+      <td align="left"> The, you’ll develop ROS nodes to perform specific vehicle functions, like image classification or motion control. </td>
+  </tr>
+  <tr>
+      <td align="center"> <b> 10 <b> </td>
+      <td align="center"> <b> Project: System Integration <b> </td>
+      <td align="left"> <b> Finally, for your last project, you’ll deploy your teams’ code to Carla, a real self-driving car, and see how well it drives around the test track! <b> </td>
+  </tr>
+  </tr>
+</table>
 
 &nbsp;
 
