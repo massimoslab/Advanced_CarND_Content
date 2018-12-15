@@ -9,7 +9,7 @@ As an engineer, you should have a broad understand of both software and also har
 ## Term 1 - Computer Vision and Deep Learning
 I have reorganised Term 1 (compared to the original Udacity course) so that the computer vision is completed early on in the course and is directly applied in the construction of a traffic light detector and classifier. Please notice that no machine learning is used in the initial part of the term.
 
-<table border="1">
+<table>
   <tr>
       <th>Section</th>
       <th>Content</th>
@@ -194,7 +194,7 @@ I have reorganised Term 1 (compared to the original Udacity course) so that the 
 ## Annexes
 The annexes contain valuable material that will allows students to familiarise themselves with topics that they might have never seen before such as Arduino and Raspberry Pi programming.
 
-<table border="1">
+<table>
   <tr>
       <th>Annex</th>
       <th>Content</th>
