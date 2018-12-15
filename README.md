@@ -149,27 +149,120 @@ I have reorganised Term 1 (compared to the original Udacity course) so that the 
 ## Term 2 - Sensor Fusion, Localization and Control
 &nbsp;
 
-| Section  | Content | Details |
-| :---: | :---: | ------------- |
-| 1 | Introduction to Sensors | The first lesson of the Sensor Fusion Module covers the physics of two of the most import sensors on an autonomous vehicle — radar and lidar.
-| 2 | Kalman Filters | Kalman filters are a key mathematical tool for fusing together data. You’ll implement these filters in Python to combine measurements from a single sensor over time.
-| 3 | C++ Checkpoint | This is a chance to test your knowledge of C++ to evaluate your readiness for the upcoming projects.
-| 4 | Lidar and Radar Fusion with Kalman Filters C++ | Extended Kalman Filters (EKFs) are used by autonomous vehicle engineers to combine measurements from multiple sensors into a non-linear model. First, you’ll learn the physics and mathematics behind vehicular motion. Then, you’ll combine that knowledge with an extended Kalman filter to estimate the positions of other vehicles on the road. |
-| 5 | Project: Extended Kalman Filter | For this project, you’ll use data from multiple sensors to track a vehicle’s motion, and estimate its location with precision. Building an EKF is an impressive skill to show an employer. |
-| 6 | Unscented Kalman Filters | xx |
-| 7 | Project: Unscented Kalman Filter | xx |
-| 8 | Introduction to Localization | In this intro, you’ll study how motion and probability affect your understanding of where you are in the world.
-| 9 | Localization Overview | xx |
-| 10 | Markov Localization | Here, you’ll use a Bayesian filter to localize the vehicle in a simplified environment. |
-| 11 | Motion Models | Next, you’ll learn basic models for vehicle movements, including the bicycle model. You’ll estimate the position of the car over time given different sensor data. |
-| 12 | Particle Filters | Next, you’ll use a probabilistic sampling technique known as a particle filter to localize the vehicle in a complex environment. |
-| 13 | Implementation of a Particle Filter | To prepare for your project, you’ll implement a particle filter in C++. |
-| 14 | Project: Kidnapped Vehicle | For your actual project, you’ll implement a particle filter to take real-world data and localize a lost vehicle. |
-| 15 | PID Control | You’ll begin by build control systems to actuate a vehicle to move it on a path.|
-| 16 | Project: PID Control | Then, you’ll implement the classic closed-loop controller — a proportional-integral-derivative control system. |
-| 17 | Vehicle Models | xx |
-| 18 | Project: Model Predictive Control | xx |
-| 19 |  Geometry and Trigonometry | Before advancing further, you’ll get a refresh on your knowledge of the fundamental geometric and trigonometric functions that are necessary to model vehicular motion. |
+
+<table>
+  <tr>
+      <th>Section</th>
+      <th>Content</th>
+      <th>Details</th>
+  </tr>
+  <tr>
+      <td align="center"> 1 </td>
+      <td align="center"> C++ Checkpoint </td>
+      <td align="left"> This is a chance to test your knowledge of C++ to evaluate your readiness for the upcoming projects. </td>
+  </tr>
+  <tr>
+      <td align="center"> 2 </td>
+      <td align="center"> Introduction to Sensors </td>
+      <td align="left"> The first lesson of the Sensor Fusion Module covers the physics of two of the most import sensors on an autonomous vehicle — radar and lidar. </td>
+  </tr>
+  <tr>
+      <td colspan="3" align="center"> <b> Kalman Filters <b> </td>
+  </tr>
+  <tr>
+      <td align="center" > 3 </td>
+      <td align="center"> Kalman Filters </td>
+      <td align="left"> Kalman filters are a key mathematical tool for fusing together data. You’ll implement these filters in Python to combine measurements from a single sensor over time. </td>
+  </tr>
+  <tr>
+      <td align="center"> 4 </td>
+      <td align="center"> Lidar and Radar Fusion with Kalman Filters C++ </td>
+      <td align="left"> Extended Kalman Filters (EKFs) are used by autonomous vehicle engineers to combine measurements from multiple sensors into a non-linear model. First, you’ll learn the physics and mathematics behind vehicular motion. Then, you’ll combine that knowledge with an extended Kalman filter to estimate the positions of other vehicles on the road. </td>
+  </tr>
+  <tr>
+      <td align="center"> <b> 5 <b> </td>
+      <td align="center"> <b> Project: Extended Kalman Filter <b> </td>
+      <td align="left"> <b> For this project, you’ll use data from multiple sensors to track a vehicle’s motion, and estimate its location with precision. Building an EKF is an impressive skill to show an employer. <b> </td>
+  </tr>
+  <tr>
+      <td align="center"> 6 </td>
+      <td align="center"> Unscented Kalman Filters </td>
+      <td align="left"> xxx </td>
+  </tr>
+  <tr>
+      <td align="center"> <b> 7 <b> </td>
+      <td align="center"> <b> Project: Unscented Kalman Filter <b> </td>
+      <td align="left"> <b> xxx <b> </td>
+  </tr>
+  <tr>
+      <td colspan="3" align="center"> <b> Localization <b> </td>
+  </tr>
+  <tr>
+      <td align="center"> 8 </td>
+      <td align="center"> Introduction to Localization </td>
+      <td align="left"> In this intro, you’ll study how motion and probability affect your understanding of where you are in the world. </td>
+  </tr>
+  <tr>
+      <td align="center"> 9 </td>
+      <td align="center"> Localization Overview </td>
+      <td align="left"> xxx </td>
+  </tr>
+  <tr>
+      <td align="center"> 10 </td>
+      <td align="center"> Markov Localization </td>
+      <td align="left"> Here, you’ll use a Bayesian filter to localize the vehicle in a simplified environment. </td>
+  </tr>
+  <tr>
+      <td align="center"> 11 </td>
+      <td align="center"> Motion Models </td>
+      <td align="left"> Next, you’ll learn basic models for vehicle movements, including the bicycle model. You’ll estimate the position of the car over time given different sensor data. </td>
+  </tr>
+  <tr>
+      <td align="center"> 12 </td>
+      <td align="center"> Particle Filters </td>
+      <td align="left"> Next, you’ll use a probabilistic sampling technique known as a particle filter to localize the vehicle in a complex environment. </td>
+  </tr>
+  <tr>
+      <td align="center"> 13 </td>
+      <td align="center"> Implementation of a Particle Filter </td>
+      <td align="left"> Next, you’ll use a probabilistic sampling technique known as a particle filter to localize the vehicle in a complex environment. </td>
+  </tr>
+  <tr>
+      <td align="center"> <b> 14 <b> </td>
+      <td align="center"> <b> Project: Kidnapped Vehicle <b> </td>
+      <td align="left"> <b> For your actual project, you’ll implement a particle filter to take real-world data and localize a lost vehicle. <b> </td>
+  </tr>
+  <tr>
+      <td colspan="3" align="center"> <b> Controllers <b> </td>
+  </tr>
+  <tr>
+      <td align="center"> 15 </td>
+      <td align="center"> PID Control </td>
+      <td align="left"> You’ll begin by build control systems to actuate a vehicle to move it on a path. </td>
+  </tr>
+  <tr>
+      <td align="center"> <b> 16 <b> </td>
+      <td align="center"> <b> Project: PID Control <b> </td>
+      <td align="left"> <b> Then, you’ll implement the classic closed-loop controller — a proportional-integral-derivative control system. <b> </td>
+  </tr>
+  <tr>
+      <td align="center"> 17 </td>
+      <td align="center"> Vehicle Models </td>
+      <td align="left"> xxx </td>
+  </tr>
+  <tr>
+      <td align="center"> <b> 18 <b> </td>
+      <td align="center"> <b> Project: Model Predictive Control <b> </td>
+      <td align="left"> <b> xxx <b> </td>
+  </tr>
+  <tr>
+      <td align="center"> 19 </td>
+      <td align="center"> Geometry and Trigonometry </td>
+      <td align="left"> Before advancing further, you’ll get a refresh on your knowledge of the fundamental geometric and trigonometric functions that are necessary to model vehicular motion. </td>
+  </tr>
+  </tr>
+</table>
+
 
 &nbsp;
 ## Term 3 - Path Planning, Concentrations, and
