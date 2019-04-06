@@ -49,17 +49,22 @@ I have reorganised Term 1 (compared to the original Udacity course) so that the 
       <td align="left"> <b> xxx <b> </td>
   </tr>
   <tr>
-      <td align="center"> 7 </td>
+      <td align="center"> <b> 7 <b> </td>
+      <td align="center"> <b> Project: Traffic Sign Detection <b> </td>
+      <td align="left"> <b> xxx <b> </td>
+  </tr>
+  <tr>
+      <td align="center"> 8 </td>
       <td align="center"> Camera Calibration </td>
       <td align="left"> Learn how to calibrate your camera to remove inherent distortions that can affect its perception of the world. </td>
   </tr>
   <tr>
-      <td align="center"> 8 </td>
+      <td align="center"> 9 </td>
       <td align="center"> Advanced techniques for lane findings </td>
       <td align="left"> Discover more advanced computer vision techniques to improve upon your lane lines algorithm! </td>
   </tr>
   <tr>
-      <td align="center"> <b> 9 <b> </td>
+      <td align="center"> <b> 10 <b> </td>
       <td align="center"> <b> Project: Advanced Lane Detection <b> </td>
       <td align="left"> <b> In this project, you’ll detect lane lines in a variety of conditions, including changing road surfaces, curved roads, and variable lighting. You’ll use OpenCV to implement camera calibration and image transforms, as well as apply filters, polynomial fits, and splines. <b> </td>
   </tr>
@@ -67,77 +72,77 @@ I have reorganised Term 1 (compared to the original Udacity course) so that the 
       <td colspan="3" align="center"> <b> Machine Learning <b> </td>
   </tr>
   <tr>
-      <td align="center"> 10 </td>
+      <td align="center"> 11 </td>
       <td align="center"> Introduction to Neural Networks </td>
       <td align="left"> Here, you’ll survey the basics of neural networks, including regression, classification, perceptrons, and backpropagation. </td>
   </tr>
   <tr>
-      <td align="center"> 11 </td>
+      <td align="center"> 12 </td>
       <td align="center"> MiniFlow </td>
       <td align="left"> xxx </td>
   </tr>
   <tr>
-      <td align="center"> 12 </td>
+      <td align="center"> 13 </td>
       <td align="center"> Introduction TensorFlow </td>
       <td align="left"> Next up, you’ll train a logistic classifier using TensorFlow. And, you’ll implement related techniques, such as softmax probabilities and regularization. </td>
   </tr>
   <tr>
-      <td align="center"> 13 </td>
+      <td align="center"> 14 </td>
       <td align="center"> Deep Neural Networks </td>
       <td align="left"> This is where you’ll combine activation functions, backpropagation, and regularization, all using TensorFlow. </td>
   </tr>
   <tr>
-      <td align="center"> 14 </td>
+      <td align="center"> 15 </td>
       <td align="center"> Convolutional Neural Networks </td>
       <td align="left"> Next, you’ll study the building blocks of convolutional neural networks, which are especially well-suited to extracting data from camera images. In particular, you’ll learn about filters, stride, and pooling. </td>
   </tr>
   <tr>
-      <td align="center"> 15 </td>
+      <td align="center"> 16 </td>
       <td align="center"> LeNet for Traffic Signs </td>
       <td align="left"> xxx </td>
   </tr>
   <tr>
-      <td align="center"> <b> 16 <b> </td>
+      <td align="center"> <b> 17 <b> </td>
       <td align="center"> <b> Project: Traffic Sign Classifier <b> </td>
       <td align="left"> <b> For this project, you’ll implement and train a convolutional neural network to classify traffic signs. You’ll use validation sets, pooling, and dropout to design a network architecture and improve performance. <b> </td>
   </tr>
   <tr>
-      <td align="center"> 17 </td>
+      <td align="center"> 18 </td>
       <td align="center"> Keras </td>
       <td align="left"> This will be your opportunity to build a multi-layer convolutional network in Keras. And, you’ll compare the simplicity of Keras to the flexibility of TensorFlow. </td>
   </tr>
   <tr>
-      <td align="center"> 18 </td>
+      <td align="center"> 19 </td>
       <td align="center"> Transfer Learning </td>
       <td align="left"> Here, you’ll fine tune pre-trained networks to apply them to your own problems. You’ll study cannonical networks such as AlexNet, VGG, GoogLeNet, and ResNet. </td>
   </tr>
   <tr>
-      <td align="center"> <b> 19 <b> </td>
+      <td align="center"> <b> 20 <b> </td>
       <td align="center"> <b> Project: Behavioral Cloning <b> </td>
       <td align="left"> <b> For this project, you’ll architect and train a deep neural network to drive a car in a simulator. You’ll collect your own training data, and use it to clone your own driving behavior on a test track. <b> </td>
   </tr>
   <tr>
-      <td align="center"> 20 </td>
+      <td align="center"> 21 </td>
       <td align="center"> Machine learning and Stanley </td>
       <td align="left"> xxx </td>
   </tr>
   <tr>
-      <td align="center"> 21 </td>
+      <td align="center"> 22 </td>
       <td align="center">  Support Vector Machines </td>
       <td align="left"> xxx </td>
   </tr>
   <tr>
-      <td align="center"> 22 </td>
+      <td align="center"> 23 </td>
       <td align="center">  Decisions Trees </td>
       <td align="left"> xxx </td>
   </tr>
   <tr>
-      <td align="center"> 23 </td>
+      <td align="center"> 24 </td>
       <td align="center">  Object Detection </td>
       <td align="left"> xxx </td>
   </tr>
   <tr>
-      <td align="center"> <b> 24 <b> </td>
+      <td align="center"> <b> 25 <b> </td>
       <td align="center"> <b> Project: Vehicle Detection and Tracking <b> </td>
       <td align="left"> <b> xxx <b> </td>
   </tr>
