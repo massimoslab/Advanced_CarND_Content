@@ -6,6 +6,8 @@ The aim is to use the Udacity course as a starting point and complement the cour
 
 As an engineer, you should have a broad understand of both software and also hardware. The aim of this extended course is to give the opportunity to students to learn the software principles from the Udacity course but to complement this knowledge by applying all the theory learnt on a real miniature self-driving car that will be built from scratch. This approach will also allow students to understand the limitations that real-world system bring as a challenge and how to best tackle them.
 
+The sections in <span style="color:red"> **red** </span> are the projects or lessons that differ from the standard Udacity course. These projects and/or courses have been adapted to be used for a miniature self driving car.
+
 ## Term 1 - Computer Vision and Deep Learning
 I have reorganised Term 1 (compared to the original Udacity course) so that the computer vision is completed early on in the course and is directly applied in the construction of a traffic light detector and classifier. Please notice that no machine learning is used in the initial part of the term.
 
@@ -26,31 +28,31 @@ I have reorganised Term 1 (compared to the original Udacity course) so that the 
       <td align="left">  Udacity’s new in-browser programming editor moves you straight to programming, and past any challenges related to installing and configuring dependencies. </td>
   </tr>
   <tr>
+      <td align="center" style="color:red"> <b> 3 <b> </td>
+      <td align="center" style="color:red"> <b> Project: Arduino Traffic Light <b> </td>
+      <td align="left"> <b> In this project you will build a real traffic light using Arduino <b> </td>
+  </tr>
+  <tr>
       <td colspan="3" align="center"> <b> Computer Vision <b> </td>
   </tr>
   <tr>
-      <td align="center" > 3 </td>
+      <td align="center" > 4 </td>
       <td align="center"> Computer Vision Fundamentals </td>
       <td align="left"> Here, you’ll use OpenCV image analysis techniques to identify lines, including Hough transforms and Canny edge detection. </td>
   </tr>
   <tr>
-      <td align="center"> <b> 4 <b></td>
-      <td align="center"> <b> Project: Detect Lane Lines <b> </td>
+      <td align="center" style="color:red"> <b> 5 <b></td>
+      <td align="center" style="color:red"> <b> Project: Detect Lane Lines <b> </td>
       <td align="left"> <b> You’ll detect highway lane lines from a video stream in your very first week in the program! <b> </td>
   </tr>
   <tr>
-      <td align="center"> 5 </td>
+      <td align="center"> 6 </td>
       <td align="center"> Gradients and Color Spaces </td>
       <td align="left"> Learn how to use gradient thresholds and different color spaces to more easily identify lane markings on the road. Learn also how to use color spaces to detect traffic lights. </td>
   </tr>
   <tr>
-      <td align="center"> <b> 6 <b> </td>
-      <td align="center"> <b> Project: Traffic Light Detection <b> </td>
-      <td align="left"> <b> xxx <b> </td>
-  </tr>
-  <tr>
-      <td align="center"> <b> 7 <b> </td>
-      <td align="center"> <b> Project: Traffic Sign Detection <b> </td>
+      <td align="center" style="color:red"> <b> 7 <b> </td>
+      <td align="center" style="color:red"> <b> Project: Traffic Light Detection <b> </td>
       <td align="left"> <b> xxx <b> </td>
   </tr>
   <tr>
@@ -64,8 +66,8 @@ I have reorganised Term 1 (compared to the original Udacity course) so that the 
       <td align="left"> Discover more advanced computer vision techniques to improve upon your lane lines algorithm! </td>
   </tr>
   <tr>
-      <td align="center"> <b> 10 <b> </td>
-      <td align="center"> <b> Project: Advanced Lane Detection <b> </td>
+      <td align="center" style="color:red"> <b> 10 <b> </td>
+      <td align="center" style="color:red"> <b> Project: Advanced Lane Detection <b> </td>
       <td align="left"> <b> In this project, you’ll detect lane lines in a variety of conditions, including changing road surfaces, curved roads, and variable lighting. You’ll use OpenCV to implement camera calibration and image transforms, as well as apply filters, polynomial fits, and splines. <b> </td>
   </tr>
   <tr>
@@ -102,48 +104,58 @@ I have reorganised Term 1 (compared to the original Udacity course) so that the 
       <td align="left"> xxx </td>
   </tr>
   <tr>
-      <td align="center"> <b> 17 <b> </td>
-      <td align="center"> <b> Project: Traffic Sign Classifier <b> </td>
+      <td align="center" style="color:red"> <b> 17 <b> </td>
+      <td align="center" style="color:red"> <b> Project: Traffic Sign Detection <b> </td>
+      <td align="left"> <b> xxx <b> </td>
+  </tr>
+  <tr>
+      <td align="center" style="color:red"> <b> 18 <b> </td>
+      <td align="center" style="color:red"> <b> Project: Traffic Sign Classifier <b> </td>
       <td align="left"> <b> For this project, you’ll implement and train a convolutional neural network to classify traffic signs. You’ll use validation sets, pooling, and dropout to design a network architecture and improve performance. <b> </td>
   </tr>
   <tr>
-      <td align="center"> 18 </td>
+      <td align="center"> 19 </td>
       <td align="center"> Keras </td>
       <td align="left"> This will be your opportunity to build a multi-layer convolutional network in Keras. And, you’ll compare the simplicity of Keras to the flexibility of TensorFlow. </td>
   </tr>
   <tr>
-      <td align="center"> 19 </td>
+      <td align="center"> 20 </td>
       <td align="center"> Transfer Learning </td>
       <td align="left"> Here, you’ll fine tune pre-trained networks to apply them to your own problems. You’ll study cannonical networks such as AlexNet, VGG, GoogLeNet, and ResNet. </td>
   </tr>
   <tr>
-      <td align="center"> <b> 20 <b> </td>
-      <td align="center"> <b> Project: Behavioral Cloning <b> </td>
+      <td align="center" style="color:red"> <b> 21 <b> </td>
+      <td align="center" style="color:red"> <b> Project: Remote Controlled Vehicle <b> </td>
+      <td align="left"> <b> xxx <b> </td>
+  </tr>
+  <tr>
+      <td align="center" style="color:red"> <b> 22 <b> </td>
+      <td align="center" style="color:red"> <b> Project: Behavioral Cloning <b> </td>
       <td align="left"> <b> For this project, you’ll architect and train a deep neural network to drive a car in a simulator. You’ll collect your own training data, and use it to clone your own driving behavior on a test track. <b> </td>
   </tr>
   <tr>
-      <td align="center"> 21 </td>
+      <td align="center"> 23 </td>
       <td align="center"> Machine learning and Stanley </td>
       <td align="left"> xxx </td>
   </tr>
   <tr>
-      <td align="center"> 22 </td>
+      <td align="center"> 24 </td>
       <td align="center">  Support Vector Machines </td>
       <td align="left"> xxx </td>
   </tr>
   <tr>
-      <td align="center"> 23 </td>
+      <td align="center"> 25 </td>
       <td align="center">  Decisions Trees </td>
       <td align="left"> xxx </td>
   </tr>
   <tr>
-      <td align="center"> 24 </td>
+      <td align="center"> 26 </td>
       <td align="center">  Object Detection </td>
       <td align="left"> xxx </td>
   </tr>
   <tr>
-      <td align="center"> <b> 25 <b> </td>
-      <td align="center"> <b> Project: Vehicle Detection and Tracking <b> </td>
+      <td align="center" style="color:red"> <b> 27 <b> </td>
+      <td align="center" style="color:red"> <b> Project: Vehicle Detection and Tracking <b> </td>
       <td align="left"> <b> xxx <b> </td>
   </tr>
   </tr>
@@ -185,8 +197,8 @@ I have reorganised Term 1 (compared to the original Udacity course) so that the 
       <td align="left"> Extended Kalman Filters (EKFs) are used by autonomous vehicle engineers to combine measurements from multiple sensors into a non-linear model. First, you’ll learn the physics and mathematics behind vehicular motion. Then, you’ll combine that knowledge with an extended Kalman filter to estimate the positions of other vehicles on the road. </td>
   </tr>
   <tr>
-      <td align="center"> <b> 5 <b> </td>
-      <td align="center"> <b> Project: Extended Kalman Filter <b> </td>
+      <td align="center" style="color:red"> <b> 5 <b> </td>
+      <td align="center" style="color:red"> <b> Project: Extended Kalman Filter <b> </td>
       <td align="left"> <b> For this project, you’ll use data from multiple sensors to track a vehicle’s motion, and estimate its location with precision. Building an EKF is an impressive skill to show an employer. <b> </td>
   </tr>
   <tr>
@@ -195,8 +207,8 @@ I have reorganised Term 1 (compared to the original Udacity course) so that the 
       <td align="left"> xxx </td>
   </tr>
   <tr>
-      <td align="center"> <b> 7 <b> </td>
-      <td align="center"> <b> Project: Unscented Kalman Filter <b> </td>
+      <td align="center" style="color:red"> <b> 7 <b> </td>
+      <td align="center" style="color:red"> <b> Project: Unscented Kalman Filter <b> </td>
       <td align="left"> <b> xxx <b> </td>
   </tr>
   <tr>
